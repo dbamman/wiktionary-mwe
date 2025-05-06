@@ -23,4 +23,4 @@ def get_mwe_titles():
             else:
                 break
 
-mwe_titles = get_mwe_titles()
+get_mwe_titles()
